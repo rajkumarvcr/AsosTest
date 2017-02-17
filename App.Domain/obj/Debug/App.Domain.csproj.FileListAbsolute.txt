@@ -1,0 +1,5 @@
+C:\Users\User\Downloads\Software Engineer Code Test\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App.Domain\bin\Debug\App.Domain.dll
+C:\Users\User\Downloads\Software Engineer Code Test\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App.Domain\bin\Debug\App.Domain.pdb
+C:\Users\User\Downloads\Software Engineer Code Test\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App.Domain\obj\Debug\App.Domain.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Software Engineer Code Test\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App.Domain\obj\Debug\App.Domain.dll
+C:\Users\User\Downloads\Software Engineer Code Test\Software Engineer Code Test\ASOS Software Engineering Code Test\App\App.Domain\obj\Debug\App.Domain.pdb

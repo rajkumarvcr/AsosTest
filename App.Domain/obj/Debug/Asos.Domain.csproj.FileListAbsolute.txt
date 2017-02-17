@@ -1,0 +1,4 @@
+C:\Dev\Asos\App.Domain\bin\Debug\App.Domain.dll
+C:\Dev\Asos\App.Domain\bin\Debug\App.Domain.pdb
+C:\Dev\Asos\App.Domain\obj\Debug\App.Domain.dll
+C:\Dev\Asos\App.Domain\obj\Debug\App.Domain.pdb

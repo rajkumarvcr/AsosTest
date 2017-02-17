@@ -1,0 +1,2 @@
+C:\Users\User\Downloads\Software Engineer Code Test\Software Engineer Code Test\ASOS Software Engineering Code Test\App\Customer.Tests\obj\Debug\Customer.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\Asos\Customer.Tests\obj\Debug\Customer.Tests.csprojResolveAssemblyReference.cache

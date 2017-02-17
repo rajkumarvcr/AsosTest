@@ -1,0 +1,9 @@
+C:\Dev\Asos\App.Company.Services\bin\Debug\App.Company.Services.dll
+C:\Dev\Asos\App.Company.Services\bin\Debug\App.Company.Services.pdb
+C:\Dev\Asos\App.Company.Services\bin\Debug\App.Company.Services.dll.CodeAnalysisLog.xml
+C:\Dev\Asos\App.Company.Services\bin\Debug\App.Company.Services.dll.lastcodeanalysissucceeded
+C:\Dev\Asos\App.Company.Services\bin\Debug\Asos.Common.dll
+C:\Dev\Asos\App.Company.Services\bin\Debug\Asos.Common.pdb
+C:\Dev\Asos\App.Company.Services\obj\Debug\Asos.Company.Services.csprojResolveAssemblyReference.cache
+C:\Dev\Asos\App.Company.Services\obj\Debug\App.Company.Services.dll
+C:\Dev\Asos\App.Company.Services\obj\Debug\App.Company.Services.pdb

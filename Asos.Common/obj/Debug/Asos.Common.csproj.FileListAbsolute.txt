@@ -1,0 +1,4 @@
+C:\Dev\Asos\Asos.Common\bin\Debug\Asos.Common.dll
+C:\Dev\Asos\Asos.Common\bin\Debug\Asos.Common.pdb
+C:\Dev\Asos\Asos.Common\obj\Debug\Asos.Common.dll
+C:\Dev\Asos\Asos.Common\obj\Debug\Asos.Common.pdb

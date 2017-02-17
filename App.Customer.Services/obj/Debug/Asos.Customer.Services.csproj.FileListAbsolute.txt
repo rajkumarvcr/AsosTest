@@ -1,0 +1,9 @@
+C:\Dev\Asos\App.Customer.Services\bin\Debug\App.Customer.Services.dll
+C:\Dev\Asos\App.Customer.Services\bin\Debug\App.Customer.Services.pdb
+C:\Dev\Asos\App.Customer.Services\bin\Debug\App.Company.Services.dll
+C:\Dev\Asos\App.Customer.Services\bin\Debug\Asos.Common.dll
+C:\Dev\Asos\App.Customer.Services\bin\Debug\App.Company.Services.pdb
+C:\Dev\Asos\App.Customer.Services\bin\Debug\Asos.Common.pdb
+C:\Dev\Asos\App.Customer.Services\obj\Debug\Asos.Customer.Services.csprojResolveAssemblyReference.cache
+C:\Dev\Asos\App.Customer.Services\obj\Debug\App.Customer.Services.dll
+C:\Dev\Asos\App.Customer.Services\obj\Debug\App.Customer.Services.pdb

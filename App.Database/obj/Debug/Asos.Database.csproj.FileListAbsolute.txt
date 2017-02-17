@@ -1,0 +1,5 @@
+C:\Dev\Asos\App.Database\bin\Debug\App.Database.dll
+C:\Dev\Asos\App.Database\bin\Debug\App.Database.pdb
+C:\Dev\Asos\App.Database\obj\Debug\Asos.Database.csprojResolveAssemblyReference.cache
+C:\Dev\Asos\App.Database\obj\Debug\App.Database.dll
+C:\Dev\Asos\App.Database\obj\Debug\App.Database.pdb
